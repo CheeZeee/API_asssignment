@@ -1,0 +1,15 @@
+p {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 30px;
+
+}
+
+div {
+	font-family: garamond;
+    border-color:#6495ED;
+    background-color:#00FF00;
+    border-style:2px solid blue;
+    border-width:2px;
+    text-align: center;
+}
